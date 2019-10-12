@@ -1,0 +1,8 @@
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_CheckTestDemo\LibUsbDotNet_CheckTestDemo\bin\Debug\LibUsbDotNet_CheckTestDemo.exe.config
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_CheckTestDemo\LibUsbDotNet_CheckTestDemo\bin\Debug\LibUsbDotNet_CheckTestDemo.exe
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_CheckTestDemo\LibUsbDotNet_CheckTestDemo\bin\Debug\LibUsbDotNet_CheckTestDemo.pdb
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_CheckTestDemo\LibUsbDotNet_CheckTestDemo\bin\Debug\LibUsbDotNet.dll
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_CheckTestDemo\LibUsbDotNet_CheckTestDemo\bin\Debug\LibUsbDotNet.pdb
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_CheckTestDemo\LibUsbDotNet_CheckTestDemo\obj\Debug\LibUsbDotNet_CheckTestDemo.csprojResolveAssemblyReference.cache
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_CheckTestDemo\LibUsbDotNet_CheckTestDemo\obj\Debug\LibUsbDotNet_CheckTestDemo.exe
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_CheckTestDemo\LibUsbDotNet_CheckTestDemo\obj\Debug\LibUsbDotNet_CheckTestDemo.pdb

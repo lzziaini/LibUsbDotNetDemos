@@ -1,0 +1,8 @@
+c:\users\soft\documents\visual studio 2015\Projects\LibUSnDotnet_ReadTestDemo\LibUSnDotnet_ReadTestDemo\bin\Debug\LibUSnDotnet_ReadTestDemo.exe.config
+c:\users\soft\documents\visual studio 2015\Projects\LibUSnDotnet_ReadTestDemo\LibUSnDotnet_ReadTestDemo\bin\Debug\LibUSnDotnet_ReadTestDemo.exe
+c:\users\soft\documents\visual studio 2015\Projects\LibUSnDotnet_ReadTestDemo\LibUSnDotnet_ReadTestDemo\bin\Debug\LibUSnDotnet_ReadTestDemo.pdb
+c:\users\soft\documents\visual studio 2015\Projects\LibUSnDotnet_ReadTestDemo\LibUSnDotnet_ReadTestDemo\bin\Debug\LibUsbDotNet.dll
+c:\users\soft\documents\visual studio 2015\Projects\LibUSnDotnet_ReadTestDemo\LibUSnDotnet_ReadTestDemo\bin\Debug\LibUsbDotNet.pdb
+c:\users\soft\documents\visual studio 2015\Projects\LibUSnDotnet_ReadTestDemo\LibUSnDotnet_ReadTestDemo\obj\Debug\LibUSnDotnet_ReadTestDemo.csprojResolveAssemblyReference.cache
+c:\users\soft\documents\visual studio 2015\Projects\LibUSnDotnet_ReadTestDemo\LibUSnDotnet_ReadTestDemo\obj\Debug\LibUSnDotnet_ReadTestDemo.exe
+c:\users\soft\documents\visual studio 2015\Projects\LibUSnDotnet_ReadTestDemo\LibUSnDotnet_ReadTestDemo\obj\Debug\LibUSnDotnet_ReadTestDemo.pdb

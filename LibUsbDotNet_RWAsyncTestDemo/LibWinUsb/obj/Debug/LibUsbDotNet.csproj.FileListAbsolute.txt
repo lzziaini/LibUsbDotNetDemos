@@ -1,0 +1,10 @@
+C:\Users\soft\Documents\Visual Studio 2015\Projects\LibUsbDotnetTestDemo\LibWinUsb\bin\Debug\LibUsbDotNet.dll
+C:\Users\soft\Documents\Visual Studio 2015\Projects\LibUsbDotnetTestDemo\LibWinUsb\bin\Debug\LibUsbDotNet.pdb
+C:\Users\soft\Documents\Visual Studio 2015\Projects\LibUsbDotnetTestDemo\LibWinUsb\obj\Debug\LibUsbDotNet.csprojResolveAssemblyReference.cache
+C:\Users\soft\Documents\Visual Studio 2015\Projects\LibUsbDotnetTestDemo\LibWinUsb\obj\Debug\LibUsbDotNet.dll
+C:\Users\soft\Documents\Visual Studio 2015\Projects\LibUsbDotnetTestDemo\LibWinUsb\obj\Debug\LibUsbDotNet.pdb
+C:\Users\soft\Documents\Visual Studio 2015\Projects\LibUsbDotNet_RWAsyncTestDemo\LibWinUsb\bin\Debug\LibUsbDotNet.dll
+C:\Users\soft\Documents\Visual Studio 2015\Projects\LibUsbDotNet_RWAsyncTestDemo\LibWinUsb\bin\Debug\LibUsbDotNet.pdb
+C:\Users\soft\Documents\Visual Studio 2015\Projects\LibUsbDotNet_RWAsyncTestDemo\LibWinUsb\obj\Debug\LibUsbDotNet.csprojResolveAssemblyReference.cache
+C:\Users\soft\Documents\Visual Studio 2015\Projects\LibUsbDotNet_RWAsyncTestDemo\LibWinUsb\obj\Debug\LibUsbDotNet.dll
+C:\Users\soft\Documents\Visual Studio 2015\Projects\LibUsbDotNet_RWAsyncTestDemo\LibWinUsb\obj\Debug\LibUsbDotNet.pdb

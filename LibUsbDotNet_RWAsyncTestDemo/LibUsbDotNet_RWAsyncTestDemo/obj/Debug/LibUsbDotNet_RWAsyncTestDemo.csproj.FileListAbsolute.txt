@@ -1,0 +1,8 @@
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWAsyncTestDemo\LibUsbDotNet_RWAsyncTestDemo\bin\Debug\LibUsbDotNet_RWAsyncTestDemo.exe.config
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWAsyncTestDemo\LibUsbDotNet_RWAsyncTestDemo\bin\Debug\LibUsbDotNet_RWAsyncTestDemo.exe
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWAsyncTestDemo\LibUsbDotNet_RWAsyncTestDemo\bin\Debug\LibUsbDotNet_RWAsyncTestDemo.pdb
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWAsyncTestDemo\LibUsbDotNet_RWAsyncTestDemo\bin\Debug\LibUsbDotNet.dll
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWAsyncTestDemo\LibUsbDotNet_RWAsyncTestDemo\bin\Debug\LibUsbDotNet.pdb
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWAsyncTestDemo\LibUsbDotNet_RWAsyncTestDemo\obj\Debug\LibUsbDotNet_RWAsyncTestDemo.csprojResolveAssemblyReference.cache
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWAsyncTestDemo\LibUsbDotNet_RWAsyncTestDemo\obj\Debug\LibUsbDotNet_RWAsyncTestDemo.exe
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWAsyncTestDemo\LibUsbDotNet_RWAsyncTestDemo\obj\Debug\LibUsbDotNet_RWAsyncTestDemo.pdb

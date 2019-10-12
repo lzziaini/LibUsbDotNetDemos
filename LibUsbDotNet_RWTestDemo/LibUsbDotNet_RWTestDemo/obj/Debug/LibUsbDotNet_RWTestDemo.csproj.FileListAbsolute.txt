@@ -1,0 +1,8 @@
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWTestDemo\LibUsbDotNet_RWTestDemo\bin\Debug\LibUsbDotNet_RWTestDemo.exe.config
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWTestDemo\LibUsbDotNet_RWTestDemo\bin\Debug\LibUsbDotNet_RWTestDemo.exe
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWTestDemo\LibUsbDotNet_RWTestDemo\bin\Debug\LibUsbDotNet_RWTestDemo.pdb
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWTestDemo\LibUsbDotNet_RWTestDemo\bin\Debug\LibUsbDotNet.dll
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWTestDemo\LibUsbDotNet_RWTestDemo\bin\Debug\LibUsbDotNet.pdb
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWTestDemo\LibUsbDotNet_RWTestDemo\obj\Debug\LibUsbDotNet_RWTestDemo.csprojResolveAssemblyReference.cache
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWTestDemo\LibUsbDotNet_RWTestDemo\obj\Debug\LibUsbDotNet_RWTestDemo.exe
+c:\users\soft\documents\visual studio 2015\Projects\LibUsbDotNet_RWTestDemo\LibUsbDotNet_RWTestDemo\obj\Debug\LibUsbDotNet_RWTestDemo.pdb

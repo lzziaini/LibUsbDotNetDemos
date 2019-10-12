@@ -1,0 +1,8 @@
+c:\users\soft\documents\visual studio 2015\Projects\LibUsnDotNet_RWEventTestDemo\LibUsnDotNet_RWEventTestDemo\bin\Debug\LibUsnDotNet_RWEventTestDemo.exe.config
+c:\users\soft\documents\visual studio 2015\Projects\LibUsnDotNet_RWEventTestDemo\LibUsnDotNet_RWEventTestDemo\bin\Debug\LibUsnDotNet_RWEventTestDemo.exe
+c:\users\soft\documents\visual studio 2015\Projects\LibUsnDotNet_RWEventTestDemo\LibUsnDotNet_RWEventTestDemo\bin\Debug\LibUsnDotNet_RWEventTestDemo.pdb
+c:\users\soft\documents\visual studio 2015\Projects\LibUsnDotNet_RWEventTestDemo\LibUsnDotNet_RWEventTestDemo\bin\Debug\LibUsbDotNet.dll
+c:\users\soft\documents\visual studio 2015\Projects\LibUsnDotNet_RWEventTestDemo\LibUsnDotNet_RWEventTestDemo\bin\Debug\LibUsbDotNet.pdb
+c:\users\soft\documents\visual studio 2015\Projects\LibUsnDotNet_RWEventTestDemo\LibUsnDotNet_RWEventTestDemo\obj\Debug\LibUsnDotNet_RWEventTestDemo.csprojResolveAssemblyReference.cache
+c:\users\soft\documents\visual studio 2015\Projects\LibUsnDotNet_RWEventTestDemo\LibUsnDotNet_RWEventTestDemo\obj\Debug\LibUsnDotNet_RWEventTestDemo.exe
+c:\users\soft\documents\visual studio 2015\Projects\LibUsnDotNet_RWEventTestDemo\LibUsnDotNet_RWEventTestDemo\obj\Debug\LibUsnDotNet_RWEventTestDemo.pdb
